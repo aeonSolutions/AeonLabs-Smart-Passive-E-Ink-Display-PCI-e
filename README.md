@@ -6,6 +6,8 @@ A PCB for a 2.13" E-Ink Display with PCI-e connection. Requires #no #power an ca
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e/total?style=for-the-badge)
 
+[![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e/blob/main/designs/youtube.png)](https://www.youtube.com/watch?v=LZkmOEHcpNU)
+
 ## Versions
 ### AeonLabs improved Hot Solder Reflow Plate
 - revision 2.x (ToDo)
@@ -14,6 +16,7 @@ A PCB for a 2.13" E-Ink Display with PCI-e connection. Requires #no #power an ca
 - revison 1.x
   - PCB for the 2.13" E-Ink Passive Display. No batteries or power required.
 
+  PCB fabrication of June 2022 (reviision 1.1) was sponsored by [PCBWay](www.pcbway.com)
   
 PCB fabrication of June 2022 (reviision 2.1) was sponsored by [PCBWay](www.pcbway.com)
 
