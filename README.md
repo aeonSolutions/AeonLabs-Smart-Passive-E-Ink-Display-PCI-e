@@ -3,8 +3,8 @@ A PCB for a 2.13" E-Ink Display with PCI-e connection. Requires #no #power an ca
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
-![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_Smart_Passive_E_Ink_Display.svg)
-![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/total?style=for-the-badge)
+![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e.svg)
+![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e/total?style=for-the-badge)
 
 ## Versions
 ### AeonLabs improved Hot Solder Reflow Plate
@@ -24,11 +24,11 @@ PCB fabrication of June 2022 (reviision 2.1) was sponsored by [PCBWay](www.pcbwa
 The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at an aditonal cost).
 
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/final.jpg)
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/final2.jpg)
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/final3.jpg)
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/final4.jpg)
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/final5.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e/blob/main/Designs/final.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e/blob/main/Designs/final2.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e/blob/main/Designs/final3.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e/blob/main/Designs/final4.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e/blob/main/Designs/final5.jpg)
 
 ## Liked it ? Get a Free PCB for yourself
 Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
