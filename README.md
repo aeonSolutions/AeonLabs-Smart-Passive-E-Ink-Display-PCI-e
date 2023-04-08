@@ -1,4 +1,9 @@
-# AeonLabs-Smart Passive E-Ink Display-PCI-e
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart LCD Touch Displays](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20LCD%20Touch%20Displays)  >>  Smart Passive E-Ink Display-PCI-e
+
+<br>
+
+
+# Smart Passive E-Ink Display-PCI-e
 A PCB for a 2.13" E-Ink Display with PCI-e connection. Requires #no #power an can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for #labelling or #price tagging. Total cost, including the E-Ink Display starts at only 10 euros. Already assembled.
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
